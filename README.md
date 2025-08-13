@@ -23,6 +23,6 @@ A **simple web-based calculator** built using **Spring Boot** that performs basi
 
 ## **Project Structure**
 
-demo1/src/main/resources/static/index.html
-demo1/src/main/java/com/example/demo1/Demo1Application.java
-demo1/src/main/java/com/example/demo1/myController.java
+- demo1/src/main/resources/static/index.html
+- demo1/src/main/java/com/example/demo1/Demo1Application.java
+- demo1/src/main/java/com/example/demo1/myController.java
