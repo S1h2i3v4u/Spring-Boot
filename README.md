@@ -49,6 +49,13 @@ If you change your form and controller to use **POST** instead of **GET**, here 
 | Idempotency               | Safe to repeat (does not change state)  | Not necessarily idempotent               |
 | Use Case                  | Retrieving data                         | Sending data / creating / updating data  |
 
+
+### GET request:
+http://localhost:8080/calculator?num1=10&num2=5&operation=add
+### POST request:
+http://localhost:8080/calculator
+
+
 ---
 
 ## **Usage**
